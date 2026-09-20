@@ -6,15 +6,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=1B3A5C&text=Maryam%20Sohail%20Ahmed&fontColor=E8A33D&fontSize=46&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18&descColor=FAFAF8" alt="Maryam Sohail Ahmed banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/maryamsohail32/maryamsohail32/main/assets/banner.svg" alt="Maryam Sohail Ahmed - Machine Learning, Karachi" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1100&color=E8A33D&center=true&vCenter=true&width=680&height=40&lines=Former+ML+Intern+%40+FlyRank+AI;BS+Artificial+Intelligence+%C2%B7+DUET+Karachi;I+report+the+metrics+that+hurt%2C+too" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1100&color=E8A33D&center=true&vCenter=true&width=680&height=40&lines=Former+ML+Intern+%40+FlyRank+AI;BS+Artificial+Intelligence+%C2%B7+DUET+Karachi;Open+to+ML+%2F+AI+internships" alt="Typing intro"/>
 
 <br/>
 
 <a href="https://maryamsohailahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1B3A5C?style=for-the-badge&logo=vercel&logoColor=E8A33D" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/maryam-sohail-ahmed-685524341"><img src="https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=E8A33D" alt="LinkedIn"/></a>
-<a href="https://papers.ssrn.com/abstract=7453339"><img src="https://img.shields.io/badge/Preprint-SSRN-1B3A5C?style=for-the-badge&logoColor=E8A33D" alt="SSRN preprint"/></a>
+<a href="https://papers.ssrn.com/abstract=7453339"><img src="https://img.shields.io/badge/SSRN%20Preprint-1B3A5C?style=for-the-badge&logoColor=E8A33D" alt="SSRN preprint"/></a>
 <a href="mailto:maryam786sohail@gmail.com"><img src="https://img.shields.io/badge/Email-1B3A5C?style=for-the-badge&logo=gmail&logoColor=E8A33D" alt="Email"/></a>
 
 </div>
