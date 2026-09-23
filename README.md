@@ -19,9 +19,7 @@
 
 </div>
 
-<br/>
-
-## 👋 Hi, I'm Maryam
+### 👋 Hi, I'm Maryam
 
 I build ML systems, then I try to break my own claims before anyone else does.
 
